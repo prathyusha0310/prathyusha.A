@@ -1,5 +1,6 @@
 body{
 	background-image: url('abt.jpg');
+        background-size:cover;
 }
 p{
 	padding:220px 180px;
