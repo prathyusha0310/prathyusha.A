@@ -1,0 +1,9 @@
+body{
+	background-image: url('sch.jpg');
+
+}
+.p-aca ul li{
+	font-size:60px;
+	color:red;
+    padding:30px 270px;
+}

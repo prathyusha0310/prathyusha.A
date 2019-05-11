@@ -1,0 +1,35 @@
+body{
+	background-image:url('sea1.jpg');
+}
+.{
+	margin:0;
+	padding:0;
+}
+h1
+{
+color:orange;
+padding:2px 150px;
+}
+.p-nav{
+	float:right;
+}
+.p-nav ul li{
+	display:inline-block;	
+}
+.p-nav ul li a{
+	text-decoration: none;
+	line height:60 px;
+    padding:50 px 90px;
+    background-color:yellow; ;
+    color:#303030;
+    border: 2px solid red;
+
+}
+
+
+
+
+
+
+
+

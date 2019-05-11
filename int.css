@@ -1,0 +1,14 @@
+body{
+	background-image:url('int.jpg');
+}
+h1{
+	color:blue;
+	padding:10px 350px;
+}
+p{
+	color: red;
+    font-family: helvetica;
+    float: right;
+    padding: 70px 170px;
+    font-size:60px;
+}   
